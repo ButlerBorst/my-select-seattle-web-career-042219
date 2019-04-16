@@ -1,7 +1,7 @@
 def my_select(collection)
 
 end
-
+*
 
 def my_select(array) 
 count = 0
